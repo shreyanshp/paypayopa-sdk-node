@@ -21,7 +21,7 @@
   "dependencies": {
     "@types/uuid": "^8.0.0",
     "crypto-js": "^4.0.0",
-    "uuid": "^1.0.7"
+    "uuid": "^8.3.0"
   },
   "engines": {
     "node": ">=8.0.0",
